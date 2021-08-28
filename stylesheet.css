@@ -58,3 +58,11 @@ a {
 .btn:hover {
     opacity: 1;
 }
+
+@media (max-width: 1000px ) {
+    .list-link {
+        text-align: center;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+}
